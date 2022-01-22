@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5aabb4ac-5cd6-4a83-ba67-71f70c03b8c0": {
+      "ProjectGuid": "5aabb4ac-5cd6-4a83-ba67-71f70c03b8c0",
+      "DisplayName": "Identidade",
+      "ColorIndex": 0
+    },
+    "62f71fe2-96bf-4851-b653-db76dbfca543": {
+      "ProjectGuid": "62f71fe2-96bf-4851-b653-db76dbfca543",
+      "DisplayName": "Identidade",
+      "ColorIndex": 1
+    },
+    "8dbf82ba-3e6a-4e79-9410-c8e8c545b00a": {
+      "ProjectGuid": "8dbf82ba-3e6a-4e79-9410-c8e8c545b00a",
+      "DisplayName": "Core",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8297c6c5-932f-494a-83f4-3aaca4720b9b": {
+      "ProjectGuid": "8297c6c5-932f-494a-83f4-3aaca4720b9b",
+      "DisplayName": "Cliente",
+      "ColorIndex": 3
+    },
+    "9281d38c-588c-41a7-98bf-852938d00cc4": {
+      "ProjectGuid": "9281d38c-588c-41a7-98bf-852938d00cc4",
+      "DisplayName": "Identidade",
+      "ColorIndex": 4
+    },
+    "4e419216-c790-426b-999f-c0eb53d2e028": {
+      "ProjectGuid": "4e419216-c790-426b-999f-c0eb53d2e028",
+      "DisplayName": "Cliente",
+      "ColorIndex": 5
+    },
+    "cf12f127-6f22-4ed0-ab77-ba2e36a738ce": {
+      "ProjectGuid": "cf12f127-6f22-4ed0-ab77-ba2e36a738ce",
+      "DisplayName": "Identidade",
+      "ColorIndex": 6
+    },
+    "3a378219-a832-4fce-9be2-a316ce49c840": {
+      "ProjectGuid": "3a378219-a832-4fce-9be2-a316ce49c840",
+      "DisplayName": "Cliente",
+      "ColorIndex": 7
+    },
+    "9c670df9-f668-4b7a-980c-c666ed6fb5e0": {
+      "ProjectGuid": "9c670df9-f668-4b7a-980c-c666ed6fb5e0",
+      "DisplayName": "Identidade",
+      "ColorIndex": 8
+    },
+    "4c31ad8a-6fb7-4593-a005-e8c93138fd90": {
+      "ProjectGuid": "4c31ad8a-6fb7-4593-a005-e8c93138fd90",
+      "DisplayName": "Cliente",
+      "ColorIndex": 9
+    },
+    "9e7ace49-1aab-449f-a789-19e10dfdd3ed": {
+      "ProjectGuid": "9e7ace49-1aab-449f-a789-19e10dfdd3ed",
+      "DisplayName": "Core",
+      "ColorIndex": 10
+    },
+    "132c20ca-ee48-4576-80ab-f4506af3f570": {
+      "ProjectGuid": "132c20ca-ee48-4576-80ab-f4506af3f570",
+      "DisplayName": "EventBus",
+      "ColorIndex": 11
+    },
+    "6df616f0-f05e-4874-b7e2-2aade97633a5": {
+      "ProjectGuid": "6df616f0-f05e-4874-b7e2-2aade97633a5",
+      "DisplayName": "EventBusRabbitMQ",
+      "ColorIndex": 12
+    },
+    "d8be6b04-d3d0-4c77-8b32-7da65568bfae": {
+      "ProjectGuid": "d8be6b04-d3d0-4c77-8b32-7da65568bfae",
+      "DisplayName": "EventBusServiceBus",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}
