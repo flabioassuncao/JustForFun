@@ -42,5 +42,5 @@ jobs:
           file: ./MediatR_RabbitMq/Identidade/Dockerfile
           push: true
           tags: |
-            flabioassuncao/conversao-temperatura-pipe:latest
-            flabioassuncao/conversao-temperatura-pipe:${{ github.run_number }}
+            flabioassuncao/justforfun-cqrs-bus-pipe:latest
+            flabioassuncao/justforfun-cqrs-bus-pipe:${{ github.run_number }}
